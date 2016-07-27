@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml_dial/main.qml</file>
+        <file>qml_dial/content/arrow.png</file>
+        <file>qml_dial/content/Dial.qml</file>
+        <file>qml_dial/content/round.png</file>
+    </qresource>
+</RCC>
